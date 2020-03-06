@@ -1,0 +1,8 @@
+MIDlet-1: Stars,,Stars.Stars
+MIDlet-Jar-Size: 4794
+MIDlet-Jar-URL: Stars.jar
+MIDlet-Name: Stars
+MIDlet-Vendor: dequeued.cc
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
